@@ -11,7 +11,8 @@
       "step": "installTheme",
       "themeData": {
         "resource": "git:directory",
-        "url": "https://github.com/mo1563882-sudo/pergamon-free.git",
+        "url": "https://github.com/mo1563882-sudo/pergamon-free",
+        "ref": "HEAD",
         "path": ""
       },
       "options": {
@@ -22,7 +23,8 @@
       "step": "installPlugin",
       "pluginData": {
         "resource": "git:directory",
-        "url": "https://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@github.com/mo1563882-sudo/pergamon.git",
+        "url": "https://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@github.com/mo1563882-sudo/pergamon",
+        "ref": "HEAD",
         "path": ""
       },
       "options": {
@@ -30,4 +32,4 @@
       }
     }
   ]
-      }
+}
