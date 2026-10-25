@@ -1,1 +1,0 @@
-# techovia-v6
